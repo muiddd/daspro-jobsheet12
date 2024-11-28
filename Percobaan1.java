@@ -17,6 +17,7 @@ public class Percobaan1 {
     }
 
     public static void main(String[] args) {
+        
         System.out.println(faktorialRekrusif(5));
         System.out.println(faktorialIteratif(5));
     }

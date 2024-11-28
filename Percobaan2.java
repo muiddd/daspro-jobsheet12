@@ -22,6 +22,7 @@ public class Percobaan2 {
 
         System.out.print("Perhitungan: ");
         int hasil = hitungPangkat(bilangan, pangkat);
+        
         System.out.println(" = " + hasil);
 
         sc.close();
